@@ -9,11 +9,11 @@ Capas geoespaciales de cobertura de árboles y pastos para el período 2020-2022
     </tr>
     <tr>
         <td>WMS</td>
-        <td>`https://geoportal.ucr.ac.cr/geoserver/mocupp/wms`</td>
+        <td>https://<span></span>geoportal.ucr.ac.cr/geoserver/mocupp/wms</td>
     </tr>
     <tr>
         <td>WFS</td>
-        <td>`https://geoportal.ucr.ac.cr/geoserver/mocupp/wfs`</td>
+        <td>`https://<span></span>geoportal.ucr.ac.cr/geoserver/mocupp/wfs</td>
     </tr>
 </table>
 
