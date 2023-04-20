@@ -1,5 +1,5 @@
 # MOCUPP pastos
-Capas geoespaciales de cobertura de árboles y pastos para el período 2020-2022 para la región Brunca de Costa Rica.
+Actualización del paisaje productivo de pastos entre los años 2020 y 2022 en la región Brunca de Costa Rica.
 
 ## Servicios web
 <table>
