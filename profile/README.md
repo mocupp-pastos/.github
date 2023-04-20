@@ -1,5 +1,5 @@
 # MOCUPP pastos
-Actualización del paisaje productivo de pastos entre los años 2020 y 2022 en la región Brunca de Costa Rica.
+Este sitio web presenta una actualización del paisaje productivo de pastos entre los años 2020 y 2022, en la región Brunca de Costa Rica, como resultado de un proyecto ejecutado por la [Escuela de Geografía de la Universidad de Costa Rica](https://www.geografia.fcs.ucr.ac.cr/), en el contexto del sistema de [Monitoreo del Cambio de Uso y Cobertura de la Tierra en Paisajes Productivos (MOCUPP)](https://mocupp.org/). Se generó un conjunto de capas geoespaciales publicadas como servicios web.
 
 ## Servicios web
 <table>
@@ -13,11 +13,11 @@ Actualización del paisaje productivo de pastos entre los años 2020 y 2022 en l
     </tr>
     <tr>
         <td>WFS</td>
-        <td>`https://<span></span>geoportal.ucr.ac.cr/geoserver/mocupp/wfs</td>
+        <td>https://<span></span>geoportal.ucr.ac.cr/geoserver/mocupp/wfs</td>
     </tr>
 </table>
 
-## Capas
+## Lista de capas
 <table>
     <tr>
         <th>Capa</th>
