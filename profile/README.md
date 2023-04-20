@@ -2,17 +2,17 @@
 Capas geoespaciales de cobertura de árboles y pastos para el período 2020-2022 para la región Brunca de Costa Rica.
 
 ## Servicios web
-Servicio WMS (Web Mapping Service): [https://geoportal.ucr.ac.cr/geoserver/mocupp/wms](https://geoportal.ucr.ac.cr/geoserver/mocupp/wms)
+WMS (Web Mapping Service): [https://geoportal.ucr.ac.cr/geoserver/mocupp/wms](https://geoportal.ucr.ac.cr/geoserver/mocupp/wms)
 
-Servicio WFS (Web Feature Service): [https://geoportal.ucr.ac.cr/geoserver/mocupp/wfs](https://geoportal.ucr.ac.cr/geoserver/mocupp/wfs)
+WFS (Web Feature Service): [https://geoportal.ucr.ac.cr/geoserver/mocupp/wfs](https://geoportal.ucr.ac.cr/geoserver/mocupp/wfs)
 
 ## Capas
 <table>
     <tr>
-        <th>Capa</th>
-        <th>Nombre en el servidor de mapas</th>
-        <th>Vista previa</th>
-        <th>Metadatos</th>
+        <th style="width: 25%;">Capa</th>
+        <th style="width: 25%;">Nombre en el servidor de mapas</th>
+        <th style="width: 25%;">Vista previa</th>
+        <th style="width: 25%;">Metadatos</th>
     </tr>
     <tr>
         <td>Cobertura arbórea para el año 2020 para la región Brunca</td>
