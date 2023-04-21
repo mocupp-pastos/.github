@@ -2,6 +2,9 @@
 Este sitio web presenta una actualización del paisaje productivo de pastos entre los años 2020 y 2022, en la región Brunca de Costa Rica, como resultado de un proyecto ejecutado por la [Escuela de Geografía de la Universidad de Costa Rica](https://www.geografia.fcs.ucr.ac.cr/), en el contexto del sistema de [Monitoreo del Cambio de Uso y Cobertura de la Tierra en Paisajes Productivos (MOCUPP)](https://mocupp.org/). Se generó un conjunto de capas geoespaciales publicadas como servicios web.
 
 ## Servicios web
+Las capas están publicadas en geoservicios de tipo [Web Mapping Service (WMS)](https://es.wikipedia.org/wiki/Web_Map_Service) y [Web Feature Service (WFS)](https://es.wikipedia.org/wiki/Web_Feature_Service).
+
+La siguiente tabla muestra las direcciones base para cada tipo de geoservicio.
 <table>
     <tr>
         <th>Servicio</th>
@@ -75,3 +78,6 @@ Este sitio web presenta una actualización del paisaje productivo de pastos entr
         <td><a href="http://163.178.171.72:8080/geonetwork/srv/eng/catalog.search;jsessionid=node01mlm9th9mshw1pnwpt3e1juzx1459.node0?node=srv#/metadata/CR_EG-UCR_PGCARBCPAS_2021-2022_10KVE">Metadatos</a></td>
     </tr>
 </table>
+
+## Visor de capas
+Las capas pueden observarse en este [visor](https://mocupp-pastos.github.io/visor/).
